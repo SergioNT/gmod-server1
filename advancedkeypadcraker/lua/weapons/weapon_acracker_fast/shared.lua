@@ -28,8 +28,8 @@ SWEP.Base = "weapon_acracker_base";
 				Config
 ---------------------------------------------------------------------------------------------------------------------------------------------
 */
-SWEP.difficultWord = 5;				       			     	 -- amount of letters in words [4-10]				  																
-SWEP.loadTimeCFG = 2;										 -- how long a loading goes before a memory screen.  
+SWEP.difficultWord = 4;				       			     	 -- amount of letters in words [4-10]				  																
+SWEP.loadTimeCFG = 1;										 -- how long a loading goes before a memory screen.  
 SWEP.hideDraw = 0.1;										 -- how long every line loads in a memory sreen.
 SWEP.keypadCrackingSoundAfterLoad = true;  					 -- play world sounds while loading a memory screen. set false to dissable.
 SWEP.callDenied = true;									  	 -- If wrong password choosed, call "Denied" on keypad.
